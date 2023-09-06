@@ -35,4 +35,11 @@ void grava_arquivo(Funcionario** funcionario,int tamanho);
 */
 void imprime(Funcionario** funcionario, int tamanho);
 
+
+/*Limpeza de buffer*/
+void limpar_buffer(void);
+
+/*converte string para maiusculo*/
+void maiusculo(char *s1, char *s2);
+
 #endif // FUNCIONARIO_H

@@ -1,0 +1,5 @@
+A	 SD	 32
+DE	 QWE	 123
+OK	 SA	 32
+PEDRO	 AS	 32
+SAD	 WQE	 21
